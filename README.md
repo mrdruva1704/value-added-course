@@ -5,7 +5,7 @@ Sure, here's a template you can use for your GitHub post:
 # Introducing Value Added Course: A Learning Management System for Vignan's Institute of Information Technology
 
 ## Overview
-We are excited to announce the launch of Value Added Course, a comprehensive Learning Management System (LMS) designed to cater to the needs of both teachers and students at [Your College Name]. This project aims to streamline the delivery of value-added courses and enhance the learning experience for everyone involved.
+We are excited to announce the launch of Value Added Course, a comprehensive Learning Management System (LMS) designed to cater to the needs of both teachers and students at Vignan's Institute of information technology. This project aims to streamline the delivery of value-added courses and enhance the learning experience for everyone involved.
 
 ## Key Features
 - **User Authentication:** Secure login and authentication system for teachers and students.
